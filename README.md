@@ -7,4 +7,6 @@
 
 [![Hamill210's github stats](https://github-readme-stats.vercel.app/api?username=Hamill210&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-Web Back-End Developer (Java/Spring) + JS/TS/React/Redux (Study)
+Web Back-End Developer 
+- Java/Spring/Spring JDBC/MySQL/AWS/CI-CD/OAuth2.0/JWT (Junior)
+- HTML/CSS/JS/TS/React/Redux (Study)
