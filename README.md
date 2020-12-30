@@ -6,3 +6,6 @@
 [최한울 | Back-End 개발자 ](https://www.notion.so/han95210/Back-End-57e8d1e5819d4e79912c7b33a930406d)
 
 [![Hamill210's github stats](https://github-readme-stats.vercel.app/api?username=Hamill210&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+Web Back-End Developer (Java/Spring) 
++ JS/TS/React/Redux (Study)
