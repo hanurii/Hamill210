@@ -1,2 +1,3 @@
-![](https://img.shields.io/github/followers/Hamill210?style=social)
 # Hamill210
+
+[![Hamill210's github stats](https://github-readme-stats.vercel.app/api?username=Hamill210&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
