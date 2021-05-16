@@ -4,9 +4,3 @@
 진지할 땐 차분하게 놀 땐 즐겁게. 긴 여정을 걷고 있습니다.
 
 [최한울 | Back-End 개발자 ](https://www.notion.so/han95210/Back-End-57e8d1e5819d4e79912c7b33a930406d)
-
-[![Hamill210's github stats](https://github-readme-stats.vercel.app/api?username=Hamill210&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-### Skill 
-- Java/Spring/Spring JDBC/MySQL/AWS/CI-CD/OAuth2.0/JWT (Junior)
-- HTML/CSS/JS/TS/React/Redux (Study)
